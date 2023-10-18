@@ -96,20 +96,17 @@ Here are some clips of sugar fuel in powdered form being tested on Starlite.
 
 Here are some of the first ever prototypes I designed to release parachutes before I had access to 3D printing. 
 
-|<img src="supp/PP01.jpg"> | <img src="supp/PP02.jpg">|
-|-|-|
-| <img src="supp/PR01.jpg"> | <img src="supp/PR04.jpg"> |
-| <img src="supp/PR02.jpg"> | <img src="supp/PR03.jpg"> |
+|<img src="supp/PP01.jpg"> | <img src="supp/PP02.jpg">| <img src="supp/PR01.jpg"> |
+|-|-|-|
+| <img src="supp/PR04.jpg"> | <img src="supp/PR02.jpg"> | <img src="supp/PR03.jpg"> |
 
 Here are some clips showcasing my the three parachute release mechanisms.
 
-|[![Watch the video](supp/vPP01.jpg)](https://youtu.be/1HR0Wxssyvg)|[![Watch the video](supp/vPP02.jpg)](https://youtu.be/A_ZSEr7mTrg)|
-|-|-|
-|[![Watch the video](supp/vPR01.jpg)](https://youtu.be/e2DXQ48zuMQ) | [![Watch the video](supp/vPR02.jpg)](https://youtu.be/eSyL7orDIvQ)|
-[![Watch the video](supp/vPR03.jpg)](https://youtu.be/whPJnxACfhQ) | [![Watch the video](supp/vPR04.jpg)](https://youtu.be/k9BbJgbZOVg)|
+|[![Watch the video](supp/vPP01.jpg)](https://youtu.be/1HR0Wxssyvg)|[![Watch the video](supp/vPP02.jpg)](https://youtu.be/A_ZSEr7mTrg)|[![Watch the video](supp/vPR01.jpg)](https://youtu.be/e2DXQ48zuMQ) |
+|-|-|-|
+| [![Watch the video](supp/vPR02.jpg)](https://youtu.be/eSyL7orDIvQ)| [![Watch the video](supp/vPR03.jpg)](https://youtu.be/whPJnxACfhQ) | [![Watch the video](supp/vPR04.jpg)](https://youtu.be/k9BbJgbZOVg)|
 
 Here are a few clips of me attempting to test the last two designs in free fall. (I didn't have access to drones at this time)
 
-|[![Watch the video](supp/vPR05.jpg)](https://youtu.be/kF8ewq9eQEs) | [![Watch the video](supp/vPR06.jpg)](https://youtu.be/SgZlZAWM3Q8)|
-|-|-|
-|[![Watch the video](supp/vPR07.jpg)](https://youtu.be/YiJP36TyLnY) | [![Watch the video](supp/vPR08.jpg)](https://youtu.be/1i0-fu0bgAc)|
+|[![Watch the video](supp/vPR05.jpg)](https://youtu.be/kF8ewq9eQEs) | [![Watch the video](supp/vPR06.jpg)](https://youtu.be/SgZlZAWM3Q8)|[![Watch the video](supp/vPR07.jpg)](https://youtu.be/YiJP36TyLnY) | [![Watch the video](supp/vPR08.jpg)](https://youtu.be/1i0-fu0bgAc)|
+|-|-|-|-|
