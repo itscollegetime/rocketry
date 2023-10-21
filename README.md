@@ -82,7 +82,7 @@ Here are some pictures of my first attempt at mixing the fuel in a liquid form a
 
 ## Starlite Experiments
 
-Doing the sugar fuel experiment made me think of ways to make my own solid fuel motor. One of the key components of a rocket motor is the nozzle, which has to be extremely heat resistant. Currently, I only have access to 3D printing as a means of manufacturing this nozzle with custom shape and the plastic filaments for 3D printing have where near the combustion temperatures of even homemade sugar fuel. 
+Doing the sugar fuel experiment made me think of ways to make my own solid fuel motor. One of the key components of a rocket motor is the nozzle, which has to be extremely heat resistant. Currently, I only have access to 3D printing as a means of manufacturing this nozzle with custom shape and the plastic filaments for 3D printing have melting points way lower than the combustion temperatures of homemade sugar fuel. 
 
 After watching a [YouTube video by NightHawkInLight](https://youtu.be/0IbWampaEcM?si=IoZrKXtvFoe4xgPj) about the extremely heat resistant material, Starlite, I decided to try it out and see if I could somehow incorporate it in my motor as an insulator.
 
