@@ -11,7 +11,7 @@ Here is one of the first fully assembled prototypes of our rocket. This model th
 |<img src="supp/3D3_07.jpg">|<img src="supp/3D3_03.jpg">|<img src="supp/3D3_04.jpg">|<img src="supp/3D3_02.jpg">|
 |-|-|-|-|
 |<img src="supp/3D3_01.jpg">|<img src="supp/3D3_06.jpg">|<img src="supp/3D3_05.jpg">|<img src="supp/3D3_09.jpg">|
-|<img src="supp/3D3_11.jpg">|<img src="supp/3D3_12.jpg">|<img src="supp/3D3_13.jpg">|<img src="supp/3D3_14.jpg">|<img src="supp/3D3_15.jpg">|
+|<img src="supp/3D3_11.jpg">|<img src="supp/3D3_13.jpg">|<img src="supp/3D3_14.jpg">|<img src="supp/3D3_15.jpg">|
 
 ## Active Control Model
 
