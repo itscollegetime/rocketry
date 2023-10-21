@@ -35,7 +35,7 @@ Here are a few clips demonstrating the mechanism that deploys the parachute and 
 
 Here are some short clips demonstrating some of the mechanisms of the Dusk Parachute Drop Test Model and the launch of the Final Model.
 
-|[![Watch the video](supp/v3D3_01.jpg)](https://youtu.be/orwTaT2QsHM) | [![Watch the video](supp/v3D3_02.jpg)](https://youtube.com/shorts/jlY4uhW497E)|[![Watch the video](supp/v3D3_03.jpg)](https://youtu.be/WeYL_WNSt4o) | [![Watch the video](supp/v3D3_04.jpg)](https://youtu.be/o3B6mpEIYPM)|
+|[![Watch the video](supp/v3D3_01.jpg)](https://youtu.be/orwTaT2QsHM) | [![Watch the video](supp/v3D3_02.jpg)](https://youtube.com/shorts/jlY4uhW497E)|[![Watch the video](supp/v3D3_03.jpg)](https://youtu.be/WeYL_WNSt4o) | [![Watch the video](supp/v3D3_04.jpg)](https://youtu.be/jKOMEQxLlDE?si=pCsRbt5clWzwvQm1)|
 |-|-|-|-|
 
 Finally, here are some clips of the numerous recoveries from trees. Thank you so much to the Acton Fire Department for coming out and helping us recover our booster!
