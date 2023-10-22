@@ -8,6 +8,9 @@ Models and prototypes displayed here are designed around The American Rocketry C
 
 Here is one of the first fully assembled prototypes of our rocket. This model that was used to test our parachute deployment and separation system had drag plates that could deploy and retract in flight to actively change the drag of the rocket, thereby adjusting maximum altitude and total flight time.
 
+|<img src="supp/rdd_03.jpg">|<img src="supp/rdd_05.jpg">|
+|-|-|
+
 |<img src="supp/3D3_07.jpg">|<img src="supp/3D3_03.jpg">|<img src="supp/3D3_04.jpg">|<img src="supp/3D3_02.jpg">|
 |-|-|-|-|
 |<img src="supp/3D3_01.jpg">|<img src="supp/3D3_06.jpg">|<img src="supp/3D3_05.jpg">|<img src="supp/3D3_09.jpg">|
@@ -17,12 +20,19 @@ Here is one of the first fully assembled prototypes of our rocket. This model th
 
 This model incorporated active fin control, but was never flight tested since the final assembled mass was much greater than the maximum 650g specified by the TARC 2023 requirements. 
 
+|<img src="supp/rdd_01.jpg">|<img src="supp/rdd_07.jpg">|<img src="supp/rdd_02.jpg">|
+|-|-|-|
+
 |<img src="supp/3D2_01.jpg">|<img src="supp/3D2_02.jpg">|<img src="supp/3D2_03.jpg">|
 |-|-|-|
 
 ## Final Model
 
 We had neglected the effects of weather cocking and the rocket ended up getting stuck in a nearby tree after succesful parachute deployment.
+
+|<img src="supp/rdd_04.jpg">|<img src="supp/rdd_06.jpg">|
+|-|-|
+
 |<img src="supp/3D3_17.jpg">|<img src="supp/3D3_18.jpg">|<img src="supp/3D3_19.jpg">|<img src="supp/3D3_20.jpg">|
 |-|-|-|-|
 
